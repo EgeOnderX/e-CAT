@@ -1,6 +1,6 @@
 # e-CAT
 A Python Tkinter application to manage cats’ information, including name, gender, color, parents’ names, and automatically generated IDs.
-
+> NOTE: Optional EXE version for easy use without Python.
 
 # Examples
 
